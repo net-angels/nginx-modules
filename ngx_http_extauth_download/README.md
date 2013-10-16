@@ -61,4 +61,9 @@ Based on http://wiki.nginx.org/HttpSecureDownload
   Any report about bugs will be appreciated.
 
   E-mail: arthurtumanyan@gmail.com
+<<<<<<< HEAD:ngx_http_extauth_download/README.md
 	  arthur.tumanyan@netangels.ru  
+=======
+            arthur.tumanyan@netangels.ru
+  
+>>>>>>> e183c99792f427aa5a688fbf34f9f6a064033beb:README.md
