@@ -1,2 +1,2 @@
-ngx_extauth_download_module
-===========================
+NginX extended auth download module
+====================================
