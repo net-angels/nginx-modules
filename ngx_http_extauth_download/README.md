@@ -61,4 +61,4 @@ Based on http://wiki.nginx.org/HttpSecureDownload
   Any report about bugs will be appreciated.
 
   E-mail: arthurtumanyan@gmail.com
-  
+	  arthur.tumanyan@netangels.ru  
